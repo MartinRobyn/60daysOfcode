@@ -1,3 +1,3 @@
 # 60daysOfcode
-day 3
-practicing if statement and input
+day 4
+work on while, input , ZeroDivionError exception
