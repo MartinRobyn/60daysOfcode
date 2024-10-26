@@ -1,2 +1,3 @@
 # 60daysOfcode
-Python program
+day 4
+work on while, input , ZeroDivionError exception
