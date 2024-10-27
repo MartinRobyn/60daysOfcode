@@ -1,3 +1,3 @@
 # 60daysOfcode
-day 4
-work on while, input , ZeroDivionError exception
+day 5
+work on while, input , excepti
